@@ -1,1 +1,4 @@
-
+config system
+  option hostname 'heriWRT'
+  option timezone 'UTC'
+  option zonename 'UTC'
